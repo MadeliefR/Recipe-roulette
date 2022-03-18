@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "oefenen",
+            "group": "ja",
+            "database": "/Users/madeliefriphagen/Documents/test.sqlite3"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "hgujk",
+            "database": "/Users/madeliefriphagen/Documents/test.sqlite3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
